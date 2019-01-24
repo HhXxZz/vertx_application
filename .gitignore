@@ -1,0 +1,7 @@
+.idea
+.vertx
+file-uploads
+logs
+lib
+target
+vertx_application.iml

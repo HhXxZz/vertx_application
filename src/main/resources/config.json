@@ -1,0 +1,16 @@
+{
+  "server":{
+    "port":8888
+  },
+
+  "db": {
+    "host" : "127.0.0.1",
+    "port" : 3306,
+    "maxPoolSize" : 10,
+    "username" : "root",
+    "password" : "123456",
+    "database" : "ha_business",
+    "charset" : "UTF-8",
+    "queryTimeout" : 10000
+  }
+}
